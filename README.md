@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Gaurav Singh Karki</h1>
-<h3 align="center">A passionate frontend developer from Uttarakhand (India)</h3>
+<h3 align="center">A passionate full stack developer from Uttarakhand (India)</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karkigaurav" alt="karkigaurav" /></a> </p>
 
-- 🌱 I’m currently learning **React,Node.js**
+- 🌱 I’m currently learning **Laravel and NEXT.js**
 
-- 💬 Ask me about **React,javascript and web devlopment.**
+- 💬 Ask me about **web devlopment.**
 
 - 📫 How to reach me **karkigauravsingh@gmail.com**
 
