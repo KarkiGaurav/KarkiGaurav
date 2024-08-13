@@ -24,10 +24,10 @@ Hello! I'm Gaurav, a developer passionate about all aspects of computer science 
 
 ## GitHub Statistics
 
-[![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=karkiGaurav)](https://github.com/karkiGaurav)
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=karkigaurav&show_icons=true&locale=en&layout=compact" alt="karkigaurav" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karkigaurav&" alt="karkigaurav" /></p>
+[![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=karkiGaurav)](https://github.com/karkiGaurav)
 
 <p align=center>
 <b>Let's Connect!</b><br/>
